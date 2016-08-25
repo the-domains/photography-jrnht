@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T12:56:04.003Z'
+datePublished: '2016-08-25T13:14:28.020Z'
 sourcePath: _posts/2016-08-14-stormy-images.md
 author: []
 via: {}
-dateModified: '2016-08-25T12:56:03.825Z'
+dateModified: '2016-08-25T13:14:26.773Z'
 title: ''
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
@@ -21,3 +21,4 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/723523f5-cb57-4418-a865-4d8f6f90fd6e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8190d86-6f66-4161-bac6-edb417dcfe00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78e8b87-447a-4193-ac76-ba88d91344a1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ad9efaf-b7db-4470-9f40-36dc182cc438.jpg)
