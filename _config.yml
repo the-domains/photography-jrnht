@@ -12,17 +12,17 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.07234043
+  saturation: 0
   brandStrength: 0.2127102671656758
-  lightness: 0.0893617
+  lightness: 0
   brandColors:
     - '#170F0E'
     - '#290418'
     - '#505217'
     - '#FFD372'
     - '#FFF1AF'
-  rhythmicContrast: 0.6021277
-typography_spectrum: 0.2638298
+  rhythmicContrast: 0
+typography_spectrum: 0.1297872
 description: For Sale
 layout_spectrum: 0.3468085
 name: Photography
