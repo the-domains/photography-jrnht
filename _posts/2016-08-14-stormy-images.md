@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T12:25:20.452Z'
+datePublished: '2016-08-25T12:50:13.525Z'
 sourcePath: _posts/2016-08-14-stormy-images.md
 author: []
 via: {}
-dateModified: '2016-08-25T12:25:16.832Z'
-title: Sky
+dateModified: '2016-08-25T12:50:11.607Z'
+title: ''
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
 description: ''
@@ -15,7 +15,6 @@ inNav: false
 _type: MediaObject
 
 ---
-# Sky
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9598d2-fb0b-4101-8ad6-4c38ff0c33cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08c8d4e-0b96-4721-b27f-b5ed81c4469c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a717ca5-fc51-4a16-af56-81fb366b0dd4.jpg)
