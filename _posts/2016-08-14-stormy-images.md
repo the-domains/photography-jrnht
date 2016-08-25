@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T11:26:22.735Z'
+datePublished: '2016-08-25T12:03:35.722Z'
 sourcePath: _posts/2016-08-14-stormy-images.md
 author: []
 via: {}
-dateModified: '2016-08-25T11:26:21.874Z'
+dateModified: '2016-08-25T12:03:34.950Z'
 title: Sky
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
@@ -21,3 +21,4 @@ _type: MediaObject
 ![Above The Clouds](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a717ca5-fc51-4a16-af56-81fb366b0dd4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/723523f5-cb57-4418-a865-4d8f6f90fd6e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8190d86-6f66-4161-bac6-edb417dcfe00.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78e8b87-447a-4193-ac76-ba88d91344a1.jpg)
