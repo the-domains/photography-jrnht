@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-25T00:26:56.448Z'
+datePublished: '2016-08-25T00:27:13.030Z'
 author: []
 via: {}
-dateModified: '2016-08-25T00:26:56.271Z'
+dateModified: '2016-08-25T00:27:12.221Z'
 title: Stormy Images
 publisher: {}
 description: Storm
