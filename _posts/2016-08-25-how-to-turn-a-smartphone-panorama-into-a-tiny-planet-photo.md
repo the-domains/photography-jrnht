@@ -24,18 +24,15 @@ description: >-
   also have the ability to turn your panorama into a "tiny planet".
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://petapixel.com/2013/08/17/how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo/
 title: How to Turn a Smartphone Panorama Into a 'Tiny Planet' Photo
-datePublished: '2016-08-25T01:14:27.886Z'
-dateModified: '2016-08-25T01:13:47.916Z'
+datePublished: '2016-08-25T01:29:31.880Z'
+dateModified: '2016-08-25T01:29:31.150Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-25-how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
