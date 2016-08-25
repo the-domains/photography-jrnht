@@ -1,16 +1,16 @@
 layout_spectrum: 0.3819156375247985
-typography_spectrum: 0.14866704936139286
+typography_spectrum: 0.1573054154869169
 color:
-  brandStrength: 0.5963647703174502
-  lightness: 0.6149442356545478
-  saturation: 0.3375318357720971
-  rhythmicContrast: 0.7343731191940606
+  brandStrength: 0.21271026716567576
+  lightness: 0.1598520560655743
+  saturation: 0.173399664927274
+  rhythmicContrast: 0.18671886529773474
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
 name: Photography
 title: Manipulated Images
 description: For Sale
