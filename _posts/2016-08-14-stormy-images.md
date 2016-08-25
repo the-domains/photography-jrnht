@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T12:50:13.525Z'
+datePublished: '2016-08-25T12:56:04.003Z'
 sourcePath: _posts/2016-08-14-stormy-images.md
 author: []
 via: {}
-dateModified: '2016-08-25T12:50:11.607Z'
+dateModified: '2016-08-25T12:56:03.825Z'
 title: ''
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
