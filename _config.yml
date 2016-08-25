@@ -1,4 +1,3 @@
-layout_spectrum: 0.35536979720927775
 typography_spectrum: 0.22072647628374398
 color:
   saturation: 0.3697307158727199
@@ -11,7 +10,8 @@ color:
     - '#79BD8F'
     - '#00A388'
   rhythmicContrast: 0.10247723804786801
-title: Manipulated Images
+layout_spectrum: 0.35536979720927775
+name: Photography
 collections:
   - index:
       path: /
@@ -24,5 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: For Sale
-name: Photography
+title: Manipulated Images
+description: ''
