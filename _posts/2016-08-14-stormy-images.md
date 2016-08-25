@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-25T01:29:02.845Z'
-sourcePath: _posts/2016-08-14-stormy-images.md
+datePublished: '2016-08-25T01:45:49.834Z'
 author: []
 via: {}
-dateModified: '2016-08-25T01:29:01.782Z'
+dateModified: '2016-08-25T01:45:49.045Z'
 title: STORMY
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
 description: Storm
-hasPage: true
 starred: false
-url: stormy/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-14-stormy-images.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # STORMY
