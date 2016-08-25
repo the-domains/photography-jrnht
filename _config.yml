@@ -1,3 +1,16 @@
+layout_spectrum: 0.2259942744858563
+typography_spectrum: 0.5946866106241941
+color:
+  saturation: 0.3697307158727199
+  brandStrength: 0.15673842024989426
+  lightness: 0.15483069350011647
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  rhythmicContrast: 0.10247723804786801
 title: Manipulated Images
 collections:
   - index:
@@ -11,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5702128
-  brandStrength: 0.2127102671656758
-  lightness: 1
-  brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
-  rhythmicContrast: 1
-typography_spectrum: 0.1297872
 description: For Sale
-layout_spectrum: 0.5
 name: Photography
