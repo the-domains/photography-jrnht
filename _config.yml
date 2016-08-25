@@ -16,5 +16,8 @@ navigation:
   - name: RAIN
     id: 03394816-aa42-4293-b25a-85840f632e94
     type: content
+  - name: STORMY
+    id: b40e6b26-15fe-4584-905a-f38cbff08eeb
+    type: content
 title: Manipulated Images
 description: For Sale
