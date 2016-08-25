@@ -12,5 +12,9 @@ color:
     - '#193441'
 layout_spectrum: 0.4901619160082191
 name: Photography
+navigation:
+  - name: RAIN
+    id: 03394816-aa42-4293-b25a-85840f632e94
+    type: content
 title: Manipulated Images
 description: For Sale
