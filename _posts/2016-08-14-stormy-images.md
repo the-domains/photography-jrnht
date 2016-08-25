@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T12:23:02.796Z'
+datePublished: '2016-08-25T12:25:20.452Z'
 sourcePath: _posts/2016-08-14-stormy-images.md
 author: []
 via: {}
-dateModified: '2016-08-25T12:23:01.907Z'
+dateModified: '2016-08-25T12:25:16.832Z'
 title: Sky
 id: b40e6b26-15fe-4584-905a-f38cbff08eeb
 publisher: {}
