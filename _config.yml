@@ -12,9 +12,5 @@ color:
     - '#193441'
 layout_spectrum: 0.4901619160082191
 name: Photography
-navigation:
-  - name: Tiny Planets
-    id: 1989c6fe-2e20-404a-a268-70f5d79c2049
-    type: content
 title: Manipulated Images
 description: For Sale
