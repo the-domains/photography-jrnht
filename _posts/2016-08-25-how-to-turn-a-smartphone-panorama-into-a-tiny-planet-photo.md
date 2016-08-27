@@ -1,14 +1,17 @@
 ---
-datePublished: '2016-08-27T00:27:11.151Z'
+datePublished: '2016-08-27T00:50:57.991Z'
+sourcePath: >-
+  _posts/2016-08-25-how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo.md
 isBasedOnUrl: >-
   http://petapixel.com/2013/08/17/how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo/
 author: []
 via: {}
-dateModified: '2016-08-27T00:26:14.497Z'
+dateModified: '2016-08-27T00:50:56.841Z'
 title: How to Turn a Smartphone Panorama Into a 'Tiny Planet' Photo
 id: b3788e37-8381-425e-a50e-317eb7351f59
 publisher:
-  url: 'http://petapixel.com'
+  url: >-
+    http://petapixel.com/2013/08/17/how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo/
   name: PetaPixel
   favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
   domain: petapixel.com
@@ -17,8 +20,6 @@ description: >-
   are many apps out there that convert your photos, but Dan does it all in
   Photoshop. He creates the original photos with Photoshere, which comes with
   Google Nexus devices. Below are some of my own "Tiny Planets".
-sourcePath: >-
-  _posts/2016-08-25-how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo.md
 starred: false
 inFeed: true
 hasPage: false
