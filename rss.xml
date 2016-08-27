@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Manipulated Images]]></title>
         <description><![CDATA[Manipulated Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-jrnht/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 00:27:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Aug 2016 00:51:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-jrnht/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to Turn a Smartphone Panorama Into a 'Tiny Planet' Photo]]></title>
             <description><![CDATA[<article><h1>How to Turn a Smartphone Panorama Into a 'Tiny Planet' Photo</h1><p>Dan Petersen shows you how he makes his own version of "Tiny Planets". There are many apps out there that convert your photos, but Dan does it all in Photoshop. He creates the original photos with Photoshere, which comes with Google Nexus devices. Below are some of my own "Tiny Planets".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/818b916812845195874ea9355cba2ad8/noop.jpg?input=http%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2013%2F08%2FBanner.jpg"></article>]]></description>
             <link>http://petapixel.com/2013/08/17/how-to-turn-a-smartphone-panorama-into-a-tiny-planet-photo/</link>
             <guid isPermaLink="false">b3788e37-8381-425e-a50e-317eb7351f59</guid>
-            <pubDate>Sat, 27 Aug 2016 00:27:11 GMT</pubDate>
+            <pubDate>Sat, 27 Aug 2016 00:50:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
